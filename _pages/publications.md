@@ -16,8 +16,8 @@ author_profile: true
 - ***Jiafeng Mao**, Xueting Wang and Kiyoharu Aizawa*
   
   The Lottery Ticket Hypothesis in Denoising: Towards Semantic-Driven Initialization
-  
-  <font color=#63c5de> ***ECCV 2024*** </font> [Paper](https://arxiv.org/abs/2312.08872) 
+
+  ***ECCV 2024*** [Paper](https://arxiv.org/abs/2312.08872) 
 
 - *Zerun Wang, Liuyu Xiang, Lang Huang, **Jiafeng Mao**, Ling Xiao and Toshihiko Yamasaki*
   

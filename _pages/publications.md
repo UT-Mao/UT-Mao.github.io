@@ -17,7 +17,7 @@ author_profile: true
   
   The Lottery Ticket Hypothesis in Denoising: Towards Semantic-Driven Initialization
   
-  ***ECCV 2024*** [Paper](https://arxiv.org/abs/2312.08872)
+  <font color=#63c5de> ***ECCV 2024*** </font> [Paper](https://arxiv.org/abs/2312.08872) 
 
 - *Zerun Wang, Liuyu Xiang, Lang Huang, **Jiafeng Mao**, Ling Xiao and Toshihiko Yamasaki*
   

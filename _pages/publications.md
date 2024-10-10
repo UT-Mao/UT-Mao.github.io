@@ -13,7 +13,7 @@ author_profile: true
 
 ## International Conferences
 
-- **Jiafeng Mao**, Xueting Wang and Kiyoharu Aizawa. The Lottery Ticket Hypothesis in Denoising: Towards Semantic-Driven Initialization, in **ECCV 2024**. [Paper](https://arxiv.org/abs/2312.08872)
+- **Jiafeng Mao**, Xueting Wang and Kiyoharu Aizawa.  The Lottery Ticket Hypothesis in Denoising: Towards Semantic-Driven Initialization, in **ECCV 2024**. [Paper](https://arxiv.org/abs/2312.08872)
 
 - Zerun Wang, Liuyu Xiang, Lang Huang, **Jiafeng Mao**, Ling Xiao and Toshihiko Yamasaki. SCOMatch: Alleviating Overtrusting in Open-set Semi-supervised Learning, in **ECCV 2024**.
 

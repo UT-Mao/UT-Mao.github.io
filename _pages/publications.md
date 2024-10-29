@@ -41,7 +41,7 @@ author_profile: true
 
   Training-Free Location Aware Text-to-Image Synthesis
 
-  ***ICIP 2023*** [Paper](https://arxiv.org/pdf/2304.13427)
+  ***ICIP 2023(Oral)*** [Paper](https://arxiv.org/pdf/2304.13427)
 
 - ***Jiafeng Mao**, Qing Yu, Go Irie and Kiyoharu Aizawa*
 
@@ -59,7 +59,7 @@ author_profile: true
 
   Noisy Localization Annotation Refinement for Object Detection
 
-  ***ICIP 2020*** [Paper](https://ieeexplore.ieee.org/document/9190728)
+  ***ICIP 2020(Oral)*** [Paper](https://ieeexplore.ieee.org/document/9190728)
 
 ## Domestic Conferences
 

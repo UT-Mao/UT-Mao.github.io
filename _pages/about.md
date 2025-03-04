@@ -53,7 +53,13 @@ I am currently a research scientist at Cyberagent AI Lab, and a project research
 </div>
 
 - [Dealing with Synthetic Data Contamination in Online Continual Learning](https://arxiv.org/pdf/2411.13852), Maorong Wang, Nicolas Michel, **Jiafeng Mao** and Toshihiko Yamasaki. **NeurIPS 2024**
-- [SCOMatch: Alleviating Overtrusting in Open-set Semi-supervised Learning](https://arxiv.org/pdf/2409.17512), 	Zerun Wang, Liuyu Xiang, Lang Huang, Jiafeng Mao, Ling Xiao and Toshihiko Yamasaki.**ECCV 2024**
+- [SCOMatch: Alleviating Overtrusting in Open-set Semi-supervised Learning](https://arxiv.org/pdf/2409.17512), Zerun Wang, Liuyu Xiang, Lang Huang, **Jiafeng Mao**, Ling Xiao and Toshihiko Yamasaki.**ECCV 2024**
+- [Noise-Avoidance Sampling for Annotation Missing Object Detection](https://ieeexplore.ieee.org/document/10222557), **Jiafeng Mao**, Qing Yu, Irie Go and Kiyoharu Aizawa. **ICIP 2023**
+- [Training-Free Location-Aware Text-to-Image Synthesis](https://arxiv.org/pdf/2304.13427), **Jiafeng Mao**, Xueting Wang.**ICIP 2023(Oral)**
+- [Noisy Annotation Refinement for Object Detection](https://arxiv.org/pdf/2110.10456), **Jiafeng Mao**, Qing Yu, Yoko Yamakata and Kiyoharu Aizawa. **BMVC 2021**
+- [Noisy Localization Annotation Refinement for Object Detection](https://ieeexplore.ieee.org/document/9190728), **Jiafeng Mao**, Qing Yu and Kiyoharu Aizawa. **ICIP2020(Oral)**
+
+
 
 
 # 🎖 Honors and Awards

@@ -9,7 +9,7 @@
 title                    : "Jiafeng Mao"
 description              : "Jiafeng Mao_1 "
 repository               : "UT-Mao/UT-Mao.github.io"
-google_scholar_stats_use_cdn : flase
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

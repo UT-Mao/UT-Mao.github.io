@@ -51,7 +51,9 @@ I am currently a research scientist at Cyberagent AI Lab, and a project research
 </div>
 </div>
 
-- [Dealing with Synthetic Data Contamination in Online Continual Learning](https://arxiv.org/pdf/2411.13852), Maorong Wang, Nicolas Michel, **Jiafeng Mao** and Toshihiko Yamasaki, **NeurIPS 2024**
+- [Dealing with Synthetic Data Contamination in Online Continual Learning](https://arxiv.org/pdf/2411.13852), Maorong Wang, Nicolas Michel, **Jiafeng Mao** and Toshihiko Yamasaki. **NeurIPS 2024**
+- [SCOMatch: Alleviating Overtrusting in Open-set Semi-supervised Learning](https://arxiv.org/pdf/2409.17512), 	Zerun Wang, Liuyu Xiang, Lang Huang, Jiafeng Mao, Ling Xiao and Toshihiko Yamasaki.**ECCV 2024**
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

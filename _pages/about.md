@@ -33,8 +33,8 @@ I am currently a research scientist at Cyberagent AI Lab, and a project research
 **Jiafeng Mao**, Xueting Wang, Kiyoharu Aizawa
 
 [**Project**](https://ut-mao.github.io/noise.github.io/) <strong><span class='show_paper_citations' data='K6pA2u0AAAAJ:ufrVoPGSRksC'></span></strong>
-- abd
-- def
+- Collecting noise pixel blocks to construct initial noise according to specified layout.
+- Comfirming versatility of noise blocks over prompts and images.
 </div>
 </div>
 
@@ -46,8 +46,8 @@ I am currently a research scientist at Cyberagent AI Lab, and a project research
 **Jiafeng Mao**, Xueting Wang, Kiyoharu Aizawa
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K6pA2u0AAAAJ&citation_for_view=K6pA2u0AAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='K6pA2u0AAAAJ:W7OEmFMy1HYC'></span></strong>
-- abc
-- def
+- Analyzing the generation tendency of intial noise 
+- initial noise manipulation for generated image repainting and layout-to-image generation
 </div>
 </div>
 

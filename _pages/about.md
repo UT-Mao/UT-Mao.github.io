@@ -38,7 +38,7 @@ I am currently a research scientist at Cyberagent AI Lab, and a project research
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/Lottery.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/swap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Guided Image Synthesis via Initial Image Editing in Diffusion Model](https://arxiv.org/abs/2305.03382)

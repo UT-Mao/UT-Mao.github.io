@@ -19,22 +19,30 @@ redirect_from:
 
 I am currently a research scientist at Cyberagent AI Lab, and a project researcher with The University of Tokyo, Japan. I am a member of Aizawa Labratory and working with Prof. Kiyoharu Aizawa. My research interest is in Computer Vision, including Image Generation, Visual Understanding and Training Data Synthesis. 
 
-Invited 
-Reviewer TMM 2024 and ACM MM 2024
-
-
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 Reviewer for CVPR 2025, ICCV 2025, ACM MM 2025
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Lottery.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Lottery Ticket Hypotheis in Denoising: Towards Semantic Driven Initialization](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jiafeng Mao**, Xueting Wang, Kiyoharu Aizawa
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Lottery.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Lottery Ticket Hypotheis in Denoising: Towards Semantic Driven Initialization](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Jiafeng Mao**, Xueting Wang, Kiyoharu Aizawa
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

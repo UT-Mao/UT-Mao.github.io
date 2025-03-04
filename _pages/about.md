@@ -21,7 +21,7 @@ I am currently a research scientist at Cyberagent AI Lab, and a project research
 
 
 # News
-- *2025.02*: &nbsp; Reviewer for CVPR 2025, ICCV 2025, ACM MM 2025
+- *2025.02*: &nbsp; 
 - *2024.07*: &nbsp;🎉🎉 2 papers are accpeted by ECCV 2024
 
 # Publications 
@@ -61,6 +61,8 @@ I am currently a research scientist at Cyberagent AI Lab, and a project research
 
 
 # 🎖 Honors and Awards
+- *2025* Reviewer for CVPR 2025, ICCV 2025, ACM MM 2025, ICME 2025, MIRU 2025
+- *2024* Reviewer for CVPR 2024, ECCV 2024, ACM MM 2024, WACV 2024, MIRU 2024
 - *2022* IST-RA: A Doctoral Student Special Incentives Program provided by the University of Tokyo Graduate School of Information Science and Technology.
 - *2020* Kaggle Global Wheat Detection Competition Silver Medal. 
 - *2020* MIRU Student Encouragement Award

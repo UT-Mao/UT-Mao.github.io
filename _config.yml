@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiafeng Mao"
-description              : "Jiafeng Mao_1 "
+description              : "Image Generation & Understanding"
 repository               : "UT-Mao/UT-Mao.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiafeng Mao_2"
+  name             : "Jiafeng Mao"
   avatar           : "images/ca_mao.png"
-  bio              : "Jiafeng Mao_3"
+  bio              : "Research Scientist @ CyberAgent AI Lab"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : 

@@ -28,19 +28,20 @@ I am currently a research scientist at Cyberagent AI Lab, and a project research
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Lottery.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Lottery Ticket Hypotheis in Denoising: Towards Semantic Driven Initialization](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[The Lottery Ticket Hypothesis in Denoising: Towards Semantic-Driven Initialization](https://arxiv.org/pdf/2312.08872)
 
 **Jiafeng Mao**, Xueting Wang, Kiyoharu Aizawa
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://ut-mao.github.io/noise.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- abd
+- def
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Lottery.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Lottery Ticket Hypotheis in Denoising: Towards Semantic Driven Initialization](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Guided Image Synthesis via Initial Image Editing in Diffusion Model](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Jiafeng Mao**, Xueting Wang, Kiyoharu Aizawa
 

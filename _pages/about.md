@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a research scientist at Cyberagent AI Lab, and a project researcher with The University of Tokyo, Japan. I am a member of Aizawa Labratory and working with Prof. Kiyoharu Aizawa. My research interest is in Computer Vision, including Image Generation, Visual Understanding and Training Data Synthesis. 
+I am currently a research scientist at Cyberagent AI Lab, and a project researcher with The University of Tokyo, Japan. I am a member of Aizawa Labratory and working with Prof. Kiyoharu Aizawa. 
+
+My research interest is in Computer Vision, including Image Generation, Visual Understanding and Training Data Synthesis. 
 
 
 # News
@@ -57,12 +59,10 @@ I am currently a research scientist at Cyberagent AI Lab, and a project research
 - [Noisy Localization Annotation Refinement for Object Detection](https://ieeexplore.ieee.org/document/9190728), **Jiafeng Mao**, Qing Yu and Kiyoharu Aizawa. **ICIP2020(Oral)**
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2025* Reviewer for CVPR 2025, ICCV 2025, ACM MM 2025, ICME 2025, MIRU 2025
 - *2024* Reviewer for CVPR 2024, ECCV 2024, ACM MM 2024, WACV 2024, MIRU 2024
 - *2022* IST-RA: A Doctoral Student Special Incentives Program provided by the University of Tokyo Graduate School of Information Science and Technology.
 - *2020* Kaggle Global Wheat Detection Competition Silver Medal. 
 - *2020* MIRU Student Encouragement Award
 
-# 💻 Internships
-- *2022.09 - 2024.03*, CyberAgent AI Lab.

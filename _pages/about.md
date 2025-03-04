@@ -25,7 +25,7 @@ I am currently a research scientist at Cyberagent AI Lab, and a project research
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Lottery.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Lottery.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Lottery Ticket Hypothesis in Denoising: Towards Semantic-Driven Initialization](https://arxiv.org/pdf/2312.08872)
@@ -38,7 +38,7 @@ I am currently a research scientist at Cyberagent AI Lab, and a project research
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Lottery.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/Lottery.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Guided Image Synthesis via Initial Image Editing in Diffusion Model](https://arxiv.org/abs/2305.03382)
@@ -46,11 +46,12 @@ I am currently a research scientist at Cyberagent AI Lab, and a project research
 **Jiafeng Mao**, Xueting Wang, Kiyoharu Aizawa
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K6pA2u0AAAAJ&citation_for_view=K6pA2u0AAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='K6pA2u0AAAAJ:W7OEmFMy1HYC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- abc
+- def
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Dealing with Synthetic Data Contamination in Online Continual Learning](https://arxiv.org/pdf/2411.13852), Maorong Wang, Nicolas Michel, **Jiafeng Mao** and Toshihiko Yamasaki, **NeurIPS 2024**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

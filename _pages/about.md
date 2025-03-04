@@ -21,7 +21,6 @@ I am currently a research scientist at Cyberagent AI Lab, and a project research
 
 
 # News
-- *2025.02*: &nbsp; 
 - *2024.07*: &nbsp;🎉🎉 2 papers are accpeted by ECCV 2024
 
 # Publications 

@@ -41,11 +41,11 @@ I am currently a research scientist at Cyberagent AI Lab, and a project research
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Lottery.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Guided Image Synthesis via Initial Image Editing in Diffusion Model](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Guided Image Synthesis via Initial Image Editing in Diffusion Model](https://arxiv.org/abs/2305.03382)
 
 **Jiafeng Mao**, Xueting Wang, Kiyoharu Aizawa
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K6pA2u0AAAAJ&citation_for_view=K6pA2u0AAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='K6pA2u0AAAAJ:W7OEmFMy1HYC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>

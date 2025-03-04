@@ -20,10 +20,11 @@ redirect_from:
 I am currently a research scientist at Cyberagent AI Lab, and a project researcher with The University of Tokyo, Japan. I am a member of Aizawa Labratory and working with Prof. Kiyoharu Aizawa. My research interest is in Computer Vision, including Image Generation, Visual Understanding and Training Data Synthesis. 
 
 
-# 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Reviewer for CVPR 2025, ICCV 2025, ACM MM 2025
+# News
+- *2025.02*: &nbsp; Reviewer for CVPR 2025, ICCV 2025, ACM MM 2025
+- *2024.07*: &nbsp;🎉🎉 2 papers are accpeted by ECCV 2024
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Lottery.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

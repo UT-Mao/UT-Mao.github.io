@@ -58,6 +58,12 @@ My research interest is in Computer Vision, including Image Generation, Visual U
 - [Noisy Annotation Refinement for Object Detection](https://arxiv.org/pdf/2110.10456), **Jiafeng Mao**, Qing Yu, Yoko Yamakata and Kiyoharu Aizawa. **BMVC 2021**
 - [Noisy Localization Annotation Refinement for Object Detection](https://ieeexplore.ieee.org/document/9190728), **Jiafeng Mao**, Qing Yu and Kiyoharu Aizawa. **ICIP2020(Oral)**
 
+# ArXiv Papers
+- [Training-Free Sketch-Guided Diffusion with Latent Optimization](https://arxiv.org/abs/2409.00313), Sandra Zhang Ding, **Jiafeng Mao**, Kiyoharu Aizawa.
+- [Training Data Synthesis with Difficulty Controlled Diffusion Model](https://arxiv.org/abs/2411.18109v1), Zerun Wang, **Jiafeng Mao**, Xueting Wang, Toshihiko Yamasaki
+- [From Obstacles to Resources: Semi-supervised Learning Faces Synthetic Data Contamination](https://arxiv.org/abs/2405.16930), Zerun Wang, **Jiafeng Mao**, Liuyu Xiang, Toshihiko Yamasaki
+- [Reward Incremental Learning in Text-to-Image Generation](https://arxiv.org/abs/2411.17310), Maorong Wang, **Jiafeng Mao**, Xueting Wang, Toshihiko Yamasaki
+
 
 # Honors and Awards
 - *2025* Reviewer for CVPR 2025, ICCV 2025, ACM MM 2025, ICME 2025, MIRU 2025

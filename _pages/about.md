@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a research scientist at Cyberagent AI Lab, and a project researcher with The University of Tokyo, Japan. I am a member of Aizawa Labratory and working with Prof. Kiyoharu Aizawa. 
+I am currently a research scientist at Cyberagent AI Lab. I worked as a project researcher with Aizawa Lab of The University of Tokyo, Japan. 
 
 My research interest is in Computer Vision, including Image Generation, Visual Understanding and Training Data Synthesis. 
 
 
 # News
+- *2025.04*: &nbsp;🎉🎉 1 paper is accpeted as oral by CVPR 2025 workshop AI4CC
 - *2024.07*: &nbsp;🎉🎉 2 papers are accpeted by ECCV 2024
 
 # Publications 
@@ -51,6 +52,7 @@ My research interest is in Computer Vision, including Image Generation, Visual U
 </div>
 </div>
 
+- [Training-Free Sketch-Guided Diffusion with Latent Optimization](https://arxiv.org/abs/2409.00313), Sandra Zhang Ding, **Jiafeng Mao**, Kiyoharu Aizawa.  **CVPR Workshop 2025**
 - [Dealing with Synthetic Data Contamination in Online Continual Learning](https://arxiv.org/pdf/2411.13852), Maorong Wang, Nicolas Michel, **Jiafeng Mao** and Toshihiko Yamasaki. **NeurIPS 2024**
 - [SCOMatch: Alleviating Overtrusting in Open-set Semi-supervised Learning](https://arxiv.org/pdf/2409.17512), Zerun Wang, Liuyu Xiang, Lang Huang, **Jiafeng Mao**, Ling Xiao and Toshihiko Yamasaki.**ECCV 2024**
 - [Noise-Avoidance Sampling for Annotation Missing Object Detection](https://ieeexplore.ieee.org/document/10222557), **Jiafeng Mao**, Qing Yu, Irie Go and Kiyoharu Aizawa. **ICIP 2023**
@@ -59,7 +61,6 @@ My research interest is in Computer Vision, including Image Generation, Visual U
 - [Noisy Localization Annotation Refinement for Object Detection](https://ieeexplore.ieee.org/document/9190728), **Jiafeng Mao**, Qing Yu and Kiyoharu Aizawa. **ICIP2020(Oral)**
 
 ## arXiv Papers
-- [Training-Free Sketch-Guided Diffusion with Latent Optimization](https://arxiv.org/abs/2409.00313), Sandra Zhang Ding, **Jiafeng Mao**, Kiyoharu Aizawa.
 - [Training Data Synthesis with Difficulty Controlled Diffusion Model](https://arxiv.org/abs/2411.18109v1), Zerun Wang, **Jiafeng Mao**, Xueting Wang, Toshihiko Yamasaki
 - [From Obstacles to Resources: Semi-supervised Learning Faces Synthetic Data Contamination](https://arxiv.org/abs/2405.16930), Zerun Wang, **Jiafeng Mao**, Liuyu Xiang, Toshihiko Yamasaki
 - [Reward Incremental Learning in Text-to-Image Generation](https://arxiv.org/abs/2411.17310), Maorong Wang, **Jiafeng Mao**, Xueting Wang, Toshihiko Yamasaki

@@ -23,7 +23,7 @@ My research interest is in Computer Vision, including Image Generation, Visual U
 
 
 # News
-- *2025.05*: &nbsp;🎉🎉 2 paper are accpeted by ICIP 2025
+- *2025.05*: &nbsp;🎉🎉 2 papers are accpeted by ICIP 2025
 - *2025.04*: &nbsp;🎉🎉 1 paper is accpeted as oral by CVPR 2025 workshop AI4CC
 - *2024.07*: &nbsp;🎉🎉 2 papers are accpeted by ECCV 2024
 

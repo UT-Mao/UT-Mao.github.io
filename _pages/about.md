@@ -52,6 +52,7 @@ My research interest is in Computer Vision, including Image Generation, Visual U
 - initial noise manipulation for generated image repainting and layout-to-image generation
 </div>
 </div>
+
 - [Diversity-Driven Generative Dataset Distillation based on Diffusion Model with Self-Adaptive Memory](), Mingzhuo Li, Guang Li, **Jiafeng Mao**, Takahiro Ogawa, Miki Haseyama.  **ICIP 2025**
 - [Noisy Label Refinement with Semantically Reliable Synthetic Images](), Yingxuan Li, **Jiafeng Mao**, Yusuke Matsui.  **ICIP 2025**
 - [Training-Free Sketch-Guided Diffusion with Latent Optimization](https://arxiv.org/abs/2409.00313), Sandra Zhang Ding, **Jiafeng Mao**, Kiyoharu Aizawa.  **CVPR Workshop 2025**

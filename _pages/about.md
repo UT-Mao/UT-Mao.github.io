@@ -23,6 +23,7 @@ My research interest is in Computer Vision, including Image Generation, Visual U
 
 
 # News
+- *2025.05*: &nbsp;🎉🎉 2 paper are accpeted by ICIP 2025
 - *2025.04*: &nbsp;🎉🎉 1 paper is accpeted as oral by CVPR 2025 workshop AI4CC
 - *2024.07*: &nbsp;🎉🎉 2 papers are accpeted by ECCV 2024
 
@@ -51,7 +52,8 @@ My research interest is in Computer Vision, including Image Generation, Visual U
 - initial noise manipulation for generated image repainting and layout-to-image generation
 </div>
 </div>
-
+- [Diversity-Driven Generative Dataset Distillation based on Diffusion Model with Self-Adaptive Memory](), Mingzhuo Li, Guang Li, **Jiafeng Mao**, Takahiro Ogawa, Miki Haseyama.  **ICIP 2025**
+- [Noisy Label Refinement with Semantically Reliable Synthetic Images](), Yingxuan Li, **Jiafeng Mao**, Yusuke Matsui.  **ICIP 2025**
 - [Training-Free Sketch-Guided Diffusion with Latent Optimization](https://arxiv.org/abs/2409.00313), Sandra Zhang Ding, **Jiafeng Mao**, Kiyoharu Aizawa.  **CVPR Workshop 2025**
 - [Dealing with Synthetic Data Contamination in Online Continual Learning](https://arxiv.org/pdf/2411.13852), Maorong Wang, Nicolas Michel, **Jiafeng Mao** and Toshihiko Yamasaki. **NeurIPS 2024**
 - [SCOMatch: Alleviating Overtrusting in Open-set Semi-supervised Learning](https://arxiv.org/pdf/2409.17512), Zerun Wang, Liuyu Xiang, Lang Huang, **Jiafeng Mao**, Ling Xiao and Toshihiko Yamasaki.**ECCV 2024**

@@ -23,6 +23,8 @@ My research interest is in Computer Vision, including Image Generation, Visual U
 
 
 # News
+- *2025.07*: &nbsp;🎉🎉 1 paper is accpeted by ICCV 2025 Workshop
+- *2025.07*: &nbsp;🎉🎉 1 paper is accpeted by ACM MM 2025
 - *2025.05*: &nbsp;🎉🎉 2 papers are accpeted by ICIP 2025
 - *2025.04*: &nbsp;🎉🎉 1 paper is accpeted as oral by CVPR 2025 workshop AI4CC
 - *2024.07*: &nbsp;🎉🎉 2 papers are accpeted by ECCV 2024
@@ -53,6 +55,8 @@ My research interest is in Computer Vision, including Image Generation, Visual U
 </div>
 </div>
 
+- [Exploring Palette based Color Guidance in Diffusion Models](), Qianru Qiu, **Jiafeng Mao**, Xueting Wang. **ACM MM 2025**
+- [Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling](), Mingzhuo Li, Guang Li, **Jiafeng Mao**, Linfeng Ye, Takahiro Ogawa, Miki Haseyama. **ICCV 2025 Workshop CDEL**
 - [Diversity-Driven Generative Dataset Distillation based on Diffusion Model with Self-Adaptive Memory](), Mingzhuo Li, Guang Li, **Jiafeng Mao**, Takahiro Ogawa, Miki Haseyama.  **ICIP 2025**
 - [Noisy Label Refinement with Semantically Reliable Synthetic Images](), Yingxuan Li, **Jiafeng Mao**, Yusuke Matsui.  **ICIP 2025**
 - [Training-Free Sketch-Guided Diffusion with Latent Optimization](https://arxiv.org/abs/2409.00313), Sandra Zhang Ding, **Jiafeng Mao**, Kiyoharu Aizawa.  **CVPR Workshop 2025**

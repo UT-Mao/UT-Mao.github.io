@@ -55,6 +55,19 @@ My research interest is in Computer Vision, including Image Generation, Visual U
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/swap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing]()
+
+Liangyang Ouyang, **Jiafeng Mao**
+- Analyzing the generation tendency issue in the image editing task 
+- Inverted noise optimization for semantic control in RF-based image editing.
+</div>
+</div>
+
+
+
 - [Exploring Palette based Color Guidance in Diffusion Models](), Qianru Qiu, **Jiafeng Mao**, Xueting Wang. **ACM MM 2025**
 - [Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling](), Mingzhuo Li, Guang Li, **Jiafeng Mao**, Linfeng Ye, Takahiro Ogawa, Miki Haseyama. **ICCV 2025 Workshop CDEL**
 - [Diversity-Driven Generative Dataset Distillation based on Diffusion Model with Self-Adaptive Memory](), Mingzhuo Li, Guang Li, **Jiafeng Mao**, Takahiro Ogawa, Miki Haseyama.  **ICIP 2025**

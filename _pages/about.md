@@ -58,7 +58,7 @@ My research interest is in Computer Vision, including Image Generation, Visual U
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/fig_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing]()
+[LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing](https://arxiv.org/pdf/2508.03144)
 
 Liangyang Ouyang, **Jiafeng Mao**
 - Analyzing the generation tendency issue in the image editing task 

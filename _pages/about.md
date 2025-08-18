@@ -66,6 +66,17 @@ Liangyang Ouyang, **Jiafeng Mao**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/MangaDiT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers](https://www.arxiv.org/pdf/2508.09709)
+
+Qianru Qiu, **Jiafeng Mao**, Kento Masui, Xueting Wang
+- DiT-based Manga colorization with lineart and colorized image as references. 
+- Hierarchical Attention for Precise region matching.
+</div>
+</div>
+
 
 
 - [Exploring Palette based Color Guidance in Diffusion Models](), Qianru Qiu, **Jiafeng Mao**, Xueting Wang. **ACM MM 2025**

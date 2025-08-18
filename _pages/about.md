@@ -72,8 +72,8 @@ Liangyang Ouyang, **Jiafeng Mao**
 [MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers](https://www.arxiv.org/pdf/2508.09709)
 
 Qianru Qiu, **Jiafeng Mao**, Kento Masui, Xueting Wang
-- DiT-based Manga colorization with lineart and colorized image as references. 
-- Hierarchical Attention for Precise region matching.
+- DiT-based Manga colorization with lineart and colorized image as references
+- Hierarchical Attention for Precise region matching
 </div>
 </div>
 

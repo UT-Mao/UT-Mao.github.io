@@ -97,7 +97,7 @@ Qianru Qiu, **Jiafeng Mao**, Kento Masui, Xueting Wang
 - [Reward Incremental Learning in Text-to-Image Generation](https://arxiv.org/abs/2411.17310), Maorong Wang, **Jiafeng Mao**, Xueting Wang, Toshihiko Yamasaki
 
 ## Domestic
-- 20+ Papers on MIRU etc.
+- 20+ Papers in MIRU etc.
 
 
 # Honors and Awards

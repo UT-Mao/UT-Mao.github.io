@@ -96,6 +96,9 @@ Qianru Qiu, **Jiafeng Mao**, Kento Masui, Xueting Wang
 - [From Obstacles to Resources: Semi-supervised Learning Faces Synthetic Data Contamination](https://arxiv.org/abs/2405.16930), Zerun Wang, **Jiafeng Mao**, Liuyu Xiang, Toshihiko Yamasaki
 - [Reward Incremental Learning in Text-to-Image Generation](https://arxiv.org/abs/2411.17310), Maorong Wang, **Jiafeng Mao**, Xueting Wang, Toshihiko Yamasaki
 
+## Domestic
+- 20+ Papers on MIRU etc.
+
 
 # Honors and Awards
 - *2025* Reviewer for CVPR 2025, ICCV 2025, ACM MM 2025, WACV 2025, ICME 2025, MIRU 2025

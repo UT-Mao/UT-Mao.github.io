@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a research scientist at Cyberagent AI Lab. I worked as a project researcher with Aizawa Lab of The University of Tokyo, Japan. 
 
-My research interest is in Computer Vision, including Image Generation, Visual Understanding and Training Data Synthesis. 
+My research interest is in Computer Vision, including controllable image generation and visual understanding. 
 
 
 # News

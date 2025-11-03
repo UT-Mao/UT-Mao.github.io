@@ -21,9 +21,42 @@ I am currently a research scientist at Cyberagent AI Lab. I worked as a project 
 
 My research interest is in Computer Vision, including controllable image generation and visual understanding. 
 
-<a href="https://drive.google.com/file/d/1Rz-5_GPv2eLRcdWkNv3g7ND9DWTZ7HsD/view?usp=sharing" class="btn btn--primary" download style="margin: 20px 0;">
-  <i class="fas fa-download"></i> Download CV
+<style>
+.cv-btn-glass {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 14px 28px;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: #333;
+    text-decoration: none;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 15px;
+    transition: all 0.3s ease;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}
+
+.cv-btn-glass:hover {
+    background: rgba(255, 255, 255, 0.3);
+    transform: translateY(-2px);
+}
+
+.cv-icon {
+    width: 18px;
+    height: 18px;
+}
+</style>
+
+<a href="(https://drive.google.com/file/d/1Rz-5_GPv2eLRcdWkNv3g7ND9DWTZ7HsD/view?usp=sharing)" class="cv-btn-glass" target="_blank">
+    <svg class="cv-icon" fill="currentColor" viewBox="0 0 20 20">
+        <path fill-rule="evenodd" d="M6 2a2 2 0 00-2 2v12a2 2 0 002 2h8a2 2 0 002-2V7.414A2 2 0 0015.414 6L12 2.586A2 2 0 0010.586 2H6zm5 6a1 1 0 10-2 0v3.586l-1.293-1.293a1 1 0 10-1.414 1.414l3 3a1 1 0 001.414 0l3-3a1 1 0 00-1.414-1.414L11 11.586V8z" clip-rule="evenodd"/>
+    </svg>
+    Download CV
 </a>
+
 
 # News
 - *2025.07*: &nbsp;🎉🎉 1 paper is accpeted by ICCV 2025 Workshop

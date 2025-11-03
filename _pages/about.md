@@ -21,7 +21,7 @@ I am currently a research scientist at Cyberagent AI Lab. I worked as a project 
 
 My research interest is in Computer Vision, including controllable image generation and visual understanding. 
 
-<a href="/docs/cv.pdf" class="btn btn--primary" download style="margin: 20px 0;">
+<a href="../docs/cv.pdf" class="btn btn--primary" download style="margin: 20px 0;">
   <i class="fas fa-download"></i> Download CV
 </a>
 

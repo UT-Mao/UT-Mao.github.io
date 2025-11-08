@@ -23,7 +23,7 @@ My research interest is in Computer Vision, including controllable image generat
 
 
 # News
-- *2025.11*: &nbsp;🎉🎉 1 paper is accpeted by AAAI 2026****
+- *2025.11*: &nbsp;🎉🎉 1 paper is accpeted by AAAI 2026
 - *2025.07*: &nbsp;🎉🎉 1 paper is accpeted by ICCV 2025 Workshop
 - *2025.07*: &nbsp;🎉🎉 1 paper is accpeted by ACM MM 2025
 - *2025.05*: &nbsp;🎉🎉 2 papers are accpeted by ICIP 2025

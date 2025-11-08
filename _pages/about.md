@@ -23,6 +23,7 @@ My research interest is in Computer Vision, including controllable image generat
 
 
 # News
+- *2025.11*: &nbsp;🎉🎉 1 paper is accpeted by AAAI 2026****
 - *2025.07*: &nbsp;🎉🎉 1 paper is accpeted by ICCV 2025 Workshop
 - *2025.07*: &nbsp;🎉🎉 1 paper is accpeted by ACM MM 2025
 - *2025.05*: &nbsp;🎉🎉 2 papers are accpeted by ICIP 2025
@@ -78,7 +79,7 @@ Qianru Qiu, **Jiafeng Mao**, Kento Masui, Xueting Wang
 </div>
 
 
-
+- [Training Data Synthesis with Difficulty Controlled Diffusion Model](https://arxiv.org/abs/2411.18109v1), Zerun Wang, **Jiafeng Mao**, Xueting Wang, Toshihiko Yamasaki. **AAAI 2026**
 - [Exploring Palette based Color Guidance in Diffusion Models](), Qianru Qiu, **Jiafeng Mao**, Xueting Wang. **ACM MM 2025**
 - [Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling](), Mingzhuo Li, Guang Li, **Jiafeng Mao**, Linfeng Ye, Takahiro Ogawa, Miki Haseyama. **ICCV 2025 Workshop CDEL**
 - [Diversity-Driven Generative Dataset Distillation based on Diffusion Model with Self-Adaptive Memory](), Mingzhuo Li, Guang Li, **Jiafeng Mao**, Takahiro Ogawa, Miki Haseyama.  **ICIP 2025**
@@ -92,7 +93,6 @@ Qianru Qiu, **Jiafeng Mao**, Kento Masui, Xueting Wang
 - [Noisy Localization Annotation Refinement for Object Detection](https://ieeexplore.ieee.org/document/9190728), **Jiafeng Mao**, Qing Yu and Kiyoharu Aizawa. **ICIP2020(Oral)**
 
 ## arXiv Papers
-- [Training Data Synthesis with Difficulty Controlled Diffusion Model](https://arxiv.org/abs/2411.18109v1), Zerun Wang, **Jiafeng Mao**, Xueting Wang, Toshihiko Yamasaki
 - [From Obstacles to Resources: Semi-supervised Learning Faces Synthetic Data Contamination](https://arxiv.org/abs/2405.16930), Zerun Wang, **Jiafeng Mao**, Liuyu Xiang, Toshihiko Yamasaki
 - [Reward Incremental Learning in Text-to-Image Generation](https://arxiv.org/abs/2411.17310), Maorong Wang, **Jiafeng Mao**, Xueting Wang, Toshihiko Yamasaki
 

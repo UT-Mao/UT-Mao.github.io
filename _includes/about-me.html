@@ -1,0 +1,89 @@
+<section class="hero-profile">
+  <div class="hero-avatar">
+    <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}">
+  </div>
+  <h1 class="hero-name">{{ site.author.name }}</h1>
+  <h2 class="hero-bio">{{ site.author.bio }}</h2>
+  <ul class="hero-social">
+    {% if site.author.email %}<li><a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope"></i></a></li>{% endif %}
+    {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github"></i></a></li>{% endif %}
+    {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a></li>{% endif %}
+    {% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fab fa-fw fa-linkedin"></i></a></li>{% endif %}
+    {% if site.author.twitter %}<li><a href="https://twitter.com/{{ site.author.twitter }}"><i class="fab fa-fw fa-twitter"></i></a></li>{% endif %}
+    {% if site.author.cv %}<li><a href="{{ site.author.cv }}" target="_blank"><i class="fas fa-fw fa-file-pdf"></i></a></li>{% endif %}
+  </ul>
+</section>
+
+<h1>About Me</h1>
+
+<p>I am currently a research scientist at Cyberagent AI Lab. I worked as a project researcher with Aizawa Lab of The University of Tokyo, Japan.</p>
+
+<p>My research interest is in Computer Vision, including controllable image generation and visual understanding.</p>
+
+<h1>News</h1>
+<ul>
+<li><em>2026.02</em>: &nbsp; 1 paper is accepted by CVPR 2026</li>
+<li><em>2025.11</em>: &nbsp; 1 paper is accepted by AAAI 2026</li>
+<li><em>2025.07</em>: &nbsp; 1 paper is accepted by ICCV 2025 Workshop</li>
+<li><em>2025.07</em>: &nbsp; 1 paper is accepted by ACM MM 2025</li>
+<li><em>2025.05</em>: &nbsp; 2 papers are accepted by ICIP 2025</li>
+</ul>
+
+<h1>Featured Publications</h1>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/MangaMatch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Region-Wise Correspondence Prediction between Manga Line Art Images](https://arxiv.org/abs/2509.09501)
+
+Yingxuan Li, **Jiafeng Mao**, Qianru Qiu, Yusuke Matsui
+- Transformer-based Manga lineart region matching
+- Pseudo & Noisy Label learning
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Lottery.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Lottery Ticket Hypothesis in Denoising: Towards Semantic-Driven Initialization](https://ut-mao.github.io/noise.github.io/)
+
+**Jiafeng Mao**, Xueting Wang, Kiyoharu Aizawa
+
+- Collecting noise pixel blocks to construct initial noise according to specified layout.
+- Comfirming versatility of noise blocks over prompts and images.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/swap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Guided Image Synthesis via Initial Image Editing in Diffusion Model](https://ut-mao.github.io/swap.github.io/)
+
+**Jiafeng Mao**, Xueting Wang, Kiyoharu Aizawa
+
+- Analyzing the generation tendency of intial noise
+- initial noise manipulation for generated image repainting and layout-to-image generation
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/fig_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing](https://arxiv.org/pdf/2508.03144)
+
+Liangyang Ouyang, **Jiafeng Mao**
+- Analyzing the generation tendency issue in the image editing task
+- Inverted noise optimization for semantic control in RF-based image editing.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/MangaDiT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers](https://www.arxiv.org/pdf/2508.09709)
+
+Qianru Qiu, **Jiafeng Mao**, Kento Masui, Xueting Wang
+- DiT-based Manga lineart colorization with a reference colorized image
+- Hierarchical Attention for Precise region matching
+</div>
+</div>

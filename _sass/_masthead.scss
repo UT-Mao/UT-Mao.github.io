@@ -1,0 +1,126 @@
+/* ==========================================================================
+   NAVIGATION (coder-portfolio style)
+   ========================================================================== */
+
+.navigation {
+  position: sticky;
+  top: 0;
+  background-color: $background-color;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.08);
+  z-index: 20;
+  animation: intro 0.3s both;
+  animation-delay: 0.15s;
+
+  &__inner {
+    max-width: $x-large;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.navigation-title {
+  font-family: $monospace-font;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: $darker-fg;
+  text-decoration: none;
+  line-height: 5rem;
+  letter-spacing: 0.1rem;
+
+  &:hover {
+    color: $link-color;
+  }
+}
+
+.navigation-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+
+  @media (max-width: 768px) {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: rgba($background-color, 0.98);
+    border-bottom: 2px solid $border-color;
+    flex-direction: column;
+    padding: 1rem 0;
+  }
+}
+
+.navigation-item {
+  @media (max-width: 768px) {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+.navigation-link {
+  display: block;
+  font-family: $monospace-font;
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: $fg-color;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  line-height: 5rem;
+  padding: 0 1.5rem;
+  position: relative;
+
+  &:hover {
+    color: $link-color;
+  }
+
+  &.active {
+    font-weight: 700;
+    color: $darker-fg;
+
+    &:after {
+      content: "";
+      position: absolute;
+      bottom: 0;
+      left: 1.5rem;
+      right: 1.5rem;
+      height: 2px;
+      background: $darker-fg;
+    }
+  }
+
+  @media (max-width: 768px) {
+    line-height: 3rem;
+    padding: 0.5rem 2rem;
+  }
+}
+
+/* Mobile hamburger menu */
+#menu-control {
+  display: none;
+
+  &:checked ~ .navigation-list {
+    display: flex;
+  }
+}
+
+.menu-mobile {
+  display: none;
+  cursor: pointer;
+
+  @media (max-width: 768px) {
+    display: block;
+  }
+}
+
+.btn-mobile {
+  font-size: 2rem;
+  color: $fg-color;
+  line-height: 5rem;
+}

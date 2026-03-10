@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "#"
+    tab: "tab-about-me"
+
+  - title: "Publications"
+    url: "#"
+    tab: "tab-publications"
+
+  - title: "Honors and Awards"
+    url: "#"
+    tab: "tab-honors-and-awards"
+
+  # - title: "Educations"
+  #  url: "/#-educations"
+
+  # - title: "Invited Talks"
+  #  url: "/#-invited-talks"
+
+  # - title: "Internships"
+  #  url: "/#-internships"

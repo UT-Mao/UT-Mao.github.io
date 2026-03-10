@@ -1,0 +1,48 @@
+<nav class="navigation">
+  <div class="navigation__inner">
+    <a class="navigation-title" href="#" data-tab="tab-about-me">{{ site.title }}</a>
+    <input type="checkbox" id="menu-control"/>
+    <label class="menu-mobile" for="menu-control">
+      <span class="btn-mobile">&#9776;</span>
+    </label>
+    <ul class="navigation-list">
+      {% for link in site.data.navigation.main %}
+        <li class="navigation-item">
+          <a class="navigation-link{% if link.title == 'About Me' %} active{% endif %}" href="#" data-tab="{{ link.tab }}">{{ link.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var tabs = document.querySelectorAll('[data-tab]');
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function(e) {
+      e.preventDefault();
+      var target = this.getAttribute('data-tab');
+      // Close mobile menu
+      var menuControl = document.getElementById('menu-control');
+      if (menuControl) menuControl.checked = false;
+      // Hide all tab-content sections
+      document.querySelectorAll('.tab-content').forEach(function(s) {
+        s.style.display = 'none';
+      });
+      // Show target section
+      var el = document.getElementById(target);
+      if (el) el.style.display = 'block';
+      // Update active class on nav links only (not the title)
+      document.querySelectorAll('.navigation-link').forEach(function(t) {
+        t.classList.remove('active');
+      });
+      // Activate the matching navigation-link
+      document.querySelectorAll('.navigation-link[data-tab="' + target + '"]').forEach(function(t) {
+        t.classList.add('active');
+      });
+      // Scroll to top
+      window.scrollTo(0, 0);
+    });
+  });
+});
+</script>
